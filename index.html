@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Analise de Linguagens</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>🔍 Analisador de Linguagens</h1>
+  </header>
+
+  <main>
+    <section>
+      <label for="codigo">Cole aqui o código do site:</label>
+      <textarea id="codigo" placeholder="Cole seu HTML, CSS e JS aqui..."></textarea>
+      <button onclick="analisar()">Analisar</button>
+    </section>
+
+    <section id="resultado">
+      <h2>📊 Resultado</h2>
+      <ul id="saida"></ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>Feito com ❤️ e JavaScript puro.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
