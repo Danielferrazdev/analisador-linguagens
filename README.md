@@ -44,7 +44,7 @@ Criar uma aplicação **didática e prática** para reforçar meus estudos em:
 
 ## 📸 Captura de tela
 
-![screenshot](./screenshot.png)
+![screenshot](./images/print-home.png)
 
 ---
 
