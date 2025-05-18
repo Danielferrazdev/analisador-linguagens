@@ -46,7 +46,3 @@ Criar uma aplicação **didática e prática** para reforçar meus estudos em:
 
 ![screenshot](./images/print-home.png)
 
----
-
-## 📁 Estrutura dos arquivos
-
