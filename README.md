@@ -1,6 +1,6 @@
-<h1 alineg ="center"># 🔍 Analisador de Linguagens - HTML, CSS & JS</h1>
+<h1 align="center"># 🔍 Analisador de Linguagens - HTML, CSS & JS</h1>
 
-Esse projeto é um pequeno portal onde você pode **colar o código-fonte de um site** (HTML, CSS e JS misturados) e descobrir **a porcentagem de cada linguagem** utilizada, de forma **visual e rápida**!
+<p align="center">Esse projeto é um pequeno portal onde você pode **colar o código-fonte de um site** (HTML, CSS e JS misturados) e descobrir **a porcentagem de cada linguagem** utilizada, de forma **visual e rápida**!</p>
 
 ---
 
